@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="mytime es" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHvVYB6vRWjUw/company-logo_200_200/0/1614974586158?e=2159024400&v=beta&t=KA32jnyiXBRRlBuDVCvCkncqirMNtDEMfgl6OgpNvYA" group-title="aminiptv",mytime es
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten accion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ARakuten_TV_logo.svg&psig=AOvVaw1n5INi16LfkJ9DMFtFTFJI&ust=1632592939199000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjE-uOYmPMCFQAAAAAdAAAAABAD" group-title="aminiptv",Rakuten accion
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten family" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ARakuten_TV_logo.svg&psig=AOvVaw1n5INi16LfkJ9DMFtFTFJI&ust=1632592939199000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjE-uOYmPMCFQAAAAAdAAAAABAD" group-title="aminiptv",Rakuten family
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
